@@ -10,7 +10,7 @@
 
 1] Clone the repository:
 
-        git clone https://github.com/<your-username>/flam-canvas.git
+        git clone https://github.com/Raj-dina005/Real-Time-Collaborative-Drawing-Canvas
         cd flam-canvas.
 
 2] Install dependencies:
@@ -41,8 +41,7 @@ You can deploy this project for free using Render:
 
 4] After deployment, you’ll get a public link like:
    
-         https://flam-canvas.onrender.com/
-
+          https://real-time-collaborative-drawing-canvas-pi9y.onrender.com
 
 
 ## How to Test with Multiple Users
